@@ -1,0 +1,170 @@
+.w {
+    width: 1200px;
+    margin: auto;
+}
+
+.header {
+    height: 82px;
+    border-bottom: 2px solid #b1191a;
+}
+
+.logo {
+    padding-top: 15px;
+}
+
+.rsgisterae {
+    height: 520px;
+    border: 1px solid #cccc;
+    margin-top: 20px;
+}
+
+.rsgisterae h3 {
+    height: 40px;
+    border-bottom: 1px solid #cccc;
+    background-color: #ececec;
+    padding: 0 10px;
+    font-weight: normal;
+    line-height: 40px;
+    font-size: 18px;
+}
+
+.rsgisterae h3 em {
+    font-size: 14px;
+    float: right;
+}
+
+.rsgisterae a {
+    color: #c81623;
+}
+
+.reg_form {
+    width: 600px;
+    height: 420px;
+    margin: 40px auto 0;
+}
+
+.reg_form label {
+    display: inline-block;
+    width: 100px;
+    height: 36px;
+    line-height: 36px;
+    text-align: right;
+}
+
+.inp {
+    width: 238px;
+    height: 34px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+}
+
+.error {
+    /* color: #df3030; */
+    margin-left: 10px;
+}
+
+.reg_form li {
+    margin-bottom: 10px;
+}
+
+.success_icon,
+.error_icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    color: #000;
+    background: url(../img/mess.png)no-repeat left center;
+    /* 居中对齐 */
+    vertical-align: middle;
+    margin-top: -2px;
+}
+
+.success {
+    color: #40b83f;
+    margin-left: 10px;
+}
+
+.success_icon {
+    background-image: url(../img/right.png);
+}
+
+.safe {
+    padding-left: 200px;
+    color: #b2b2b2;
+}
+
+.safe em {
+    padding: 0 12px;
+    color: #fff;
+}
+
+.ruo {
+    background-color: #de1111;
+}
+
+.zhong {
+    background-color: #40b83f;
+}
+
+.qiang {
+    background-color: #f79100;
+}
+
+.agree {
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+.agree a {
+    color: #1ba1e6;
+}
+
+.agree input {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.over {
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    margin: 30px 0 0 130px;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+}
+
+.footer {
+    height: 120px;
+    text-align: center;
+}
+
+.links {
+    margin-top: 20px;
+    height: 30px;
+}
+
+.copyright {
+    list-style: height 20px;
+}
+
+#eye {
+    width: 24px;
+}
+
+.bad {
+    background-image: url(../img/wrong.png.png);
+}
+
+.right {
+    color: green;
+}
+
+.good {
+    background-image: url(../img/right.png);
+}
+
+.wrong {
+    color: red;
+    /* 居中对齐 */
+}
